@@ -13,6 +13,7 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
   Go,
   Python,
   Java,
+  TypeScript,
   Kotlin,
   Angular,
   React.JS
