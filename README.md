@@ -7,12 +7,12 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 
 - [C](https://github.com/Vergueirod/c-language-notebook)
 - [C++](https://github.com/Vergueirod/cpp-language-notebook)
+- [Rust](https://github.com/Vergueirod/rust-language-notebook)
 
 [WIP]
-  Rust,
-  Go,
   Python,
   Java,
+  Go,
   TypeScript,
   Kotlin,
   Angular,
