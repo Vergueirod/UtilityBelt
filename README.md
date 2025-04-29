@@ -12,14 +12,7 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 - [C++](https://github.com/Vergueirod/cpp-language-notebook)
 - [Rust](https://github.com/Vergueirod/rust-language-notebook)
 
-[WIP]
-  Python,
-  Java,
-  Go,
-  TypeScript,
-  Kotlin,
-  Angular,
-  React.JS
+wip[7] = {'Python', 'Java', 'Go', 'TypeScript','Kotlin','Angular','React.JS'};
 
 ## GitHub:
 - [GitHub](https://github.com/Vergueirod/github-guide)
