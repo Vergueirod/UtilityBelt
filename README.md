@@ -23,5 +23,8 @@ wip[7] = {'Python', 'Java', 'Go', 'TypeScript','Kotlin','Angular','React.JS'};
 ## OOP Concepts:
 - [OOP Recap With C++, SOLID e DDD](https://github.com/Vergueirod/oop-concepts)
 
+## Design Patterns:
+- [Design Patterns](https://github.com/Vergueirod/design-patterns)
+
 ## Certifications:
 - [AWS Cloud Practitioner](https://github.com/Vergueirod/aws-cloud-practitioner)
