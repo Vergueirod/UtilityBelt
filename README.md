@@ -35,7 +35,7 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 - [C++](https://github.com/Vergueirod/cpp-language-notebook)
 - [Rust](https://github.com/Vergueirod/rust-language-notebook)
 - Python
-- Java
+- [Java](https://github.com/Vergueirod/java-language-notebook)
 - Go
 - TypeScript
 - Kotlin
