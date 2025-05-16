@@ -42,6 +42,39 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 - Angular
 - React.JS
 
+## Data Engineering & Storage
+
+### Relational Databases (SQL):
+- PostgreSQL
+- MySQL
+- SQLite
+- Query optimization
+- Normalization & ACID
+
+### NoSQL Databases:
+- MongoDB (Document-based)
+- Redis (Key-Value store)
+- Cassandra (Wide-column)
+- Neo4j (Graph-based)
+
+### Caching:
+- Redis
+- Memcached
+
+### Data Modeling & Best Practices:
+- ER Modeling
+- Indexing strategies
+- CAP Theorem
+- Data consistency models
+- Schema design tips
+
+### Big Data & Pipelines:
+- Hadoop
+- Spark
+- Airflow
+- ETL/ELT Concepts
+
+
 ## Git:
 - [Git commands](https://github.com/Vergueirod/github-guide)
 
@@ -79,6 +112,56 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 - Metrics
 - DataDog
 - Grafana
+
+## CI/CD (Continuous Integration / Continuous Delivery)
+
+### Concepts and Best Practices:
+- **Continuous Integration (CI)**
+  - Automate builds and test runs
+  - Validate pull requests and code merges
+- **Continuous Delivery vs. Continuous Deployment**
+  - *Delivery*: Code is production-ready, but deployment is manual
+  - *Deployment*: Code is automatically deployed to production
+- **Pipelines as Code**
+- **Environment Strategy**
+  - Dev, Staging, Production environments
+- **Automated Testing**
+  - Unit, integration, end-to-end (E2E) tests as part of the pipeline
+- **Deployment Strategies**
+  - Blue/Green deployments
+  - Canary releases
+  - Feature toggles
+- **Rollback Mechanisms**
+  - Versioned deploys, health checks, circuit breakers
+- **Monitoring & Alerts**
+  - Integrate observability post-deploy
+
+### Common CI/CD Tools:
+- **GitHub Actions** – Native to GitHub, easy to use and extend
+- **GitLab CI/CD** – Full integrated CI/CD with powerful features
+- **CircleCI** – Cloud-native, performant pipelines
+- **Jenkins** – Highly customizable, plugin-based system
+- **Bitbucket Pipelines** – Simple integration for Bitbucket users
+- **Argo CD** – GitOps-based CD for Kubernetes
+- **Tekton Pipelines** – Kubernetes-native CI/CD framework
+
+### Frequent Integrations:
+- **Docker** – Build, tag, and push images as part of the pipeline
+- **Kubernetes** – Deploy using `kubectl`, Helm, or Argo CD
+- **Terraform** – Integrate infrastructure provisioning
+- **Secrets Management** – Use secure systems (GitHub Secrets, Vault)
+- **Notifications** – Slack, Discord, email alerts for pipeline events
+
+### Pro Tips:
+- Enforce code quality with **linters and static analysis**
+- Use **build/test matrices** to test against multiple versions
+- Clearly separate pipeline stages: `build → test → package → deploy → monitor`
+- Store **build artifacts** in secure registries (Docker Hub, GitHub Packages, etc.)
+- Always version your pipeline configuration (`.yml` files) within the repo
+
+### Example Pipelines (coming soon):
+- [GitHub Actions Example](#)
+- [CI/CD with Docker + Kubernetes](#)
 
 ## Certifications:
 - [AWS Cloud Practitioner](https://github.com/Vergueirod/aws-cloud-practitioner)
