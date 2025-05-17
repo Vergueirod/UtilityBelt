@@ -84,6 +84,22 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 ## Software Architecture:
 - [Software Architecture](https://github.com/Vergueirod/software-architecture)
 
+## Gateways & Identity Management
+
+### API Gateways:
+- **Kong** – Extensible with plugins, ideal for rate limiting, logging, transformations, etc.
+- **NGINX** – Reverse proxy, load balancer, TLS termination, basic API gateway features
+
+### Identity & Access Management (IAM):
+- **Keycloak** – Open-source IAM, suporte a OAuth2, OIDC, SAML, RBAC
+- Concepts: OAuth2, OpenID Connect, SSO, RBAC, Identity Federation
+
+### Reverse Proxy Patterns:
+- Layer 7 routing
+- TLS offloading
+- Caching
+- Rate limiting & throttling
+
 ## APIs:
 - REST
 - RESTful
