@@ -181,3 +181,6 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 
 ## Certifications:
 - [AWS Cloud Practitioner](https://github.com/Vergueirod/aws-cloud-practitioner)
+
+## DS&A:
+- [DS&A](https://github.com/Vergueirod/Blind-75-LeetCode-Questions)
