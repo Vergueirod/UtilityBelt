@@ -184,3 +184,16 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 
 ## DS&A:
 - [DS&A](https://github.com/Vergueirod/Blind-75-LeetCode-Questions)
+
+## Artificial intelligence:
+- RAG
+- LangChain
+- Chunks
+- Overlap
+- Vectorization
+- Embeddings
+- KNN
+- Consensus Similarity
+- FAISS
+- PostgreSQL (With VectorDB extension - PgVector)
+
