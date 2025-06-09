@@ -186,6 +186,7 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 - [DS&A](https://github.com/Vergueirod/Blind-75-LeetCode-Questions)
 
 ## Artificial intelligence:
+- [Mathematics and Statistics](https://github.com/Vergueirod/mathematics-and-statistics)
 - RAG
 - LangChain
 - Chunks
