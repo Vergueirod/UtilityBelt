@@ -187,7 +187,7 @@ The purpose of this repo is to be my (and yours if you want) technology utility 
 
 ## Artificial intelligence:
 - [Mathematics and Statistics](https://github.com/Vergueirod/mathematics-and-statistics)
-- Perceptron
+- [Perceptron](https://github.com/Vergueirod/Perceptron)
 - RAG
 - LangChain
 - Chunks
