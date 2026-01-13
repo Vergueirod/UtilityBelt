@@ -194,3 +194,9 @@
 - FAISS
 - PostgreSQL (With VectorDB extension - PgVector)
 
+## Interview:
+
+→ I focused on the 70 most classic problems, I didn't try to solve a thousand.
+→ I spent twice as much time on system design as on Leetcode.
+→ I did mock interviews every week to practice communication.
+→ I contributed to open source projects that recruiters recognized.
